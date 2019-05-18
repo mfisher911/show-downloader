@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.6
+#!/usr/bin/env python3.7
 """Automate downloading radio shows from their show archive site.
 
 Fairly specific to my needs (hard-coded day / show time).
